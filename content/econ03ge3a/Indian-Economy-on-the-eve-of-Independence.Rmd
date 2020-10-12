@@ -1,0 +1,10 @@
+---
+title: "1: Indian Economy on the eve of Independence "
+author: "pravesh"
+date: "2020-09-13"
+output: html_document
+---
+
+
+
+---
