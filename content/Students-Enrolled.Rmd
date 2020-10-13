@@ -1,0 +1,27 @@
+---
+title: "Students Enrolled"
+author: "pravesh"
+date: "13/10/2020"
+output: html_document
+---
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(htmltab); library(tidyverse)
+students <- htmltab("http://coe.presiuniv.ac.in/coepresi/cbcsodd2020/fetchdata.php", 2)
+
+s <- students %>% 
+  dplyr::filter(GE == "ECON03GE3A")
+  
+```
+
+Students currently enrolled = `r nrow(s)`. Last updated `r  c(format(Sys.Date(), "%d-%b-%Y"),format(Sys.time(), "%H:%M:%S"))`.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+s1 <- knitr::kable(s) %>% 
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover"))
+```
+
+<div style="width:800px;line-height:3em;overflow:scroll;padding:5px;">
+`r s1` 
+</div>

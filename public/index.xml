@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>econ03ge3a</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on econ03ge3a</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
@@ -26,9 +26,8 @@
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/econ03ge3a/the-recovery-of-india/</guid>
-      <description>Contents5.1 Histograms
-Important linksVisible Hand: Public Policy and Economic Growth in the Nehru ReaThe Recovery of IndiaIntroductionPaper written by PB in 2007 when Indian economy was growing at around 9% (constant prices).
-A certain despodency induced by a sense of an allegedly “wasted past”.
+      <description>Important linksVisible Hand: Public Policy and Economic Growth in the Nehru EraThe Recovery of IndiaIntroductionPaper written by Pulapre Balakrishna (PB) in 2007 when Indian economy was growing at around 9% (constant prices).
+A certain despondency induced by a sense of an allegedly “wasted past”.
 Some have blamed Nehru and the policies adopted under his leadership.
 These are serious allegations that need to be addressed.</description>
     </item>
@@ -40,6 +39,16 @@
       
       <guid>/announcement/</guid>
       <description>There are no announcements as of now.</description>
+    </item>
+    
+    <item>
+      <title>Students Enrolled</title>
+      <link>/students-enrolled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/students-enrolled/</guid>
+      <description>Students currently enrolled = 28. Last updated 13-Oct-2020, 20:04:03.
+SemReg_NoCRNNameMajorEmailSEECGE319218170115BIOS115KALLOL BHOWMIKLife Scienceskallolnclr2001@gmail.comBIOS03SEC1ECON03GE3A319104210008POLS008RAKA BARMANPolitical Sciencerakabarman11@gmail.comPOLS03SEC1AECON03GE3A319103210009ENGL009DEBOSMITA DUTTAEnglishduttadebosmita2001@gmail.comENGL03SEC1ECON03GE3A319104110009POLS009RATNADEEP MAITRAPolitical Scienceratnadeepmaitra72@gmail.comPOLS03SEC1AECON03GE3A319214130023STAT023ARJUN BADAL KISKUStatisticsarjunbadalkisku@gmail.</description>
     </item>
     
   </channel>

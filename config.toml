@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "econ03ge3a"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -12,6 +12,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 [[menu.main]]
     name = "Announcement"
     url = "/announcement/"
+[[menu.main]]
+    name = "Students Enrolled"
+    url = "/Students-Enrolled/"
 
    
 

@@ -6,18 +6,15 @@ date: "2020-09-12"
 output: html_document
 ---
 
-## Contents
-[5.1 Histograms](#five-one)
 
----
 
 ## Important links
-- [Visible Hand: Public Policy and Economic Growth in the Nehru Rea](https://core.ac.uk/download/pdf/19918818.pdf)
+- [Visible Hand: Public Policy and Economic Growth in the Nehru Era](https://core.ac.uk/download/pdf/19918818.pdf)
 - [The Recovery of India](https://www.jstor.org/stable/40276833?seq=1#page_scan_tab_contents)
 
 ## Introduction
-- Paper written by PB in 2007 when Indian economy was growing at around 9% (constant prices).
-- A certain despodency induced by a sense of an allegedly "wasted past".
+- Paper written by Pulapre Balakrishna (PB) in 2007 when Indian economy was growing at around 9% (constant prices).
+- A certain despondency induced by a sense of an allegedly "wasted past".
 - Some have blamed Nehru and the policies adopted under his leadership.
 - These are serious allegations that need to be addressed.
 
@@ -40,13 +37,13 @@ output: html_document
   + 2 sector economy: capital and consumer goods
   + closed economy without government
   + GDP = Output of Capital + Output of Consumer goods.
-  + The capital good enters into the production fuction ofconsumer goods and itself.
+  + The capital good enters into the production function ofconsumer goods and itself.
 
 ---
 
 - Mahalanobis's model:
   + Capital is not subjected to diminishing returns (this was an interesting departure from economic theory).
-    + This implies that a **greater initial allocation of investment to the production of capital goods would leave the economy with a higher stoock of the same** in the future.
+    + This implies that a **greater initial allocation of investment to the production of capital goods would leave the economy with a higher stock of the same** in the future.
     + Greater allocation of investment $\Rightarrow$ higher stock of capital goods $\Rightarrow$ Higher future Investment.
   + Given these conditions, the planner now has to determine what share of investment be allocated to the capital goods sector, given the target level of income.
   + The model was basically meant as a **guide to a strategy for industrialisation**.
@@ -69,7 +66,6 @@ output: html_document
   - In other words, the model makes a value judgement that *the loss of consumption (and thus welfare) that would occur in the short run has a lower social cost and is an acceptable sacrifice* on the part of the people.
   - In return the people gets a *promise of an uncertain brighter future* under the presumption that more investment today would necessarily lead to a higher consumption level (and welfare) in the future.
 
-## Criticism
 <ol start=2>
 <li> The model was based on an **ideology**. </ol>
   - The model had been inspired by the Feldman planning from the Soviet Union literature (even though Mahalanobis had denied it).
