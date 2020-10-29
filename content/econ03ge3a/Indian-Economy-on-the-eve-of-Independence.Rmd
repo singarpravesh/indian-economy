@@ -1,0 +1,28 @@
+---
+title: "1. Indian Economy on the Eve of Independence"
+author: "pravesh"
+date: "2020-09-14"
+output: html_document
+---
+
+## Reference
+- [NCERT Text Book](https://ncert.nic.in/ncerts/l/keec101.pdf) Chapter 1.
+
+
+## Introduction
+- A look at the state of India’s economy prior to the country’s independence and form an idea of the various considerations that shaped India’s post-independence development strategy.
+- The structure of India’s present-day economy is not just of current making; it has its roots steeped in history, particularly in the period when India was under British rule which lasted for almost two centuries before India finally won its independence on 15 August 1947. 
+
+## Low level of economic development under the colonial rule.
+- India had an independent economy before the advent of the British rule.
+- Though agriculture was the main source of livelihood for most people, yet, the country’s economy was characterised by various kinds of manufacturing activities. - India was particularly well known for its handicraft industries in the fields of cotton and silk textiles, metal and precious stone works etc. These products enjoyed a worldwide market based on the reputation of the fine quality of material used and the high standards of craftsmanship seen in all imports from India.
+- The economic policies pursued by the colonial government in India were concerned more with the protection and promotion of the economic interests of their home country than with the development of the Indian economy. Such policies brought about a fundamental change in the structure of the Indian economy — transforming the country into supplier of raw materials and consumer of finished industrial products from Britain.
+- Obviously, the colonial government never made any sincere attempt to estimate India’s national and per capita income.
+- However few individuals such as Dadabhai Naoroji, William Digby, Findlay Shirras, V.K.R.V. Rao and R.C. Desai estimated national income.
+- However, most studies did find that the country’s growth of aggregate real output during the first half of the twentieth century was less than two per cent coupled with a meagre half per cent growth in per capita output per year.
+
+## Agricultural sector
+- India’s economy under the British colonial rule remained fundamentally agrarian — about 85 per cent of the country’s population lived mostly in villages and derived livelihood directly or indirectly from agriculture.
+- continued to experience stagnation and, not infrequently, unusual deterioration. Agricultural productivity became low though, in absolute terms, the sector experienced some growth due to the expansion of the aggregate area under cultivation. 
+- This stagnation in the agricultural sector was caused mainly because of the various systems of land settlement that were introduced by the colonial government. Particularly, under the zamindari system which was implemented in the then Bengal Presidency comprising parts of India’s present-day eastern states, the profit accruing out of the agriculture sector went to the zamindars instead of the cultivators. 
+- However, a considerable number of zamindars, and not just the colonial government, did nothing to improve the condition of agriculture.

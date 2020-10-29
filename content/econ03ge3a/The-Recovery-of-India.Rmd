@@ -1,5 +1,5 @@
 ---
-title: "2. The Recovery of India"
+title: "3. The Recovery of India"
 subtitle: "by Pulapre Balakrishna"
 author: "pravesh"
 date: "2020-09-12"
