@@ -1,10 +1,19 @@
 ---
-title: "1: Indian Economy on the eve of Independence "
+title: "1. A New India? "
 author: "pravesh"
 date: "2020-09-13"
 output: html_document
 ---
 
+## References
+- [An Uncertain Glory: India and its contradictions](http://gen.lib.rus.ec/book/index.php?md5=9C29C2843AB83648C8FD29E8EE824AF6) by Jean Drèze and Amartya Sen, 2013. Chapter 1.
 
 
 ---
+
+## Introduction
+- The recent achievements of modern, democratic India are not inconsiderable, and have been widely recognized across the globe over the last decade or more. 
+- India’s record in pioneering democratic governance in the non-Western world is a widely acknowledged accomplishment, as is its basic success in maintaining a secular state, despite the challenges arising from its thoroughly multi-religious population and the hugely problematic history of violence around the ending days of the Raj. 
+- To this can be added the achievement of rapid economic growth in the last decade, when India became the second fastest-growing large economy in the world.
+- However, it is important to evaluate both the achievements and failures that characterise India today.
+- Have India's old problems been eradicated?

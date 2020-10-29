@@ -12,7 +12,9 @@ students <- htmltab("http://coe.presiuniv.ac.in/coepresi/cbcsodd2020/fetchdata.p
 
 s <- students %>% 
   dplyr::filter(GE == "ECON03GE3A")
-  
+s %>% 
+  select(Email) %>% 
+  write.csv("C:/Users/Pravesh/Desktop/ge_students-2020.csv")
 ```
 
 Students currently enrolled = `r nrow(s)`. Last updated `r  c(format(Sys.Date(), "%d-%b-%Y"),format(Sys.time(), "%H:%M:%S"))`.
