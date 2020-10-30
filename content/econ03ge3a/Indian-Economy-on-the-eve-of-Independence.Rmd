@@ -8,6 +8,9 @@ output: html_document
 ## Reference
 - [NCERT Text Book](https://ncert.nic.in/ncerts/l/keec101.pdf) Chapter 1.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51o2E9zjUE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUC__A9hENg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Introduction
 - A look at the state of India’s economy prior to the country’s independence and form an idea of the various considerations that shaped India’s post-independence development strategy.
