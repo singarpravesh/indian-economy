@@ -6,7 +6,7 @@
     <description>Recent content on econ03ge3a</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>1. Indian Economy on the Eve of Independence</title>
       <link>/econ03ge3a/indian-economy-on-the-eve-of-independence/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/econ03ge3a/indian-economy-on-the-eve-of-independence/</guid>
       <description>ReferenceNCERT Text Book Chapter 1.IntroductionA look at the state of India’s economy prior to the country’s independence and form an idea of the various considerations that shaped India’s post-independence development strategy.The structure of India’s present-day economy is not just of current making; it has its roots steeped in history, particularly in the period when India was under British rule which lasted for almost two centuries before India finally won its independence on 15 August 1947.</description>
+    </item>
+    
+    <item>
+      <title>3. Integrating Growth and Development</title>
+      <link>/econ03ge3a/integrating-growth-and-development/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03ge3a/integrating-growth-and-development/</guid>
+      <description>ReferenceAn Uncertain Glory: India and its contradictions by Jean Drèze and Amartya Sen, 2013. Chapter 2.</description>
     </item>
     
     <item>
@@ -30,12 +39,12 @@
     </item>
     
     <item>
-      <title>3. The Recovery of India</title>
+      <title>4. The Recovery of India</title>
       <link>/econ03ge3a/the-recovery-of-india/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/econ03ge3a/the-recovery-of-india/</guid>
-      <description>SlidesReferences:Visible Hand: Public Policy and Economic Growth in the Nehru EraThe Recovery of India</description>
+      <description>ReferencesVisible Hand: Public Policy and Economic Growth in the Nehru EraThe Recovery of IndiaIntroductionPaper written by PB in 2007 when Indian economy was growing at around 9% (constant prices).A certain despondency induced by a sense of an allegedly “wasted past”.Some have blamed Nehru and the policies adopted under his leadership.These are serious allegations that need to be addressed.Economic growth researchers more interested in growth transitions.</description>
     </item>
     
     <item>
@@ -45,16 +54,6 @@
       
       <guid>/announcement/</guid>
       <description>There are no announcements as of now.</description>
-    </item>
-    
-    <item>
-      <title>Students Enrolled</title>
-      <link>/students-enrolled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/students-enrolled/</guid>
-      <description>Students currently enrolled = 35. Last updated 15-Oct-2020, 19:01:02.
-SemReg_NoCRNNameMajorEmailSEECGE319218170115BIOS115KALLOL BHOWMIKLife Scienceskallolnclr2001@gmail.comBIOS03SEC1ECON03GE3A319104210008POLS008RAKA BARMANPolitical Sciencerakabarman11@gmail.comPOLS03SEC1AECON03GE3A319103210009ENGL009DEBOSMITA DUTTAEnglishduttadebosmita2001@gmail.comENGL03SEC1ECON03GE3A319104110009POLS009RATNADEEP MAITRAPolitical Scienceratnadeepmaitra72@gmail.comPOLS03SEC1AECON03GE3A319213210021MATH021ANISHA CHOWDHURYMathematicsanishachowdhury33@gmail.</description>
     </item>
     
   </channel>

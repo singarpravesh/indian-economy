@@ -1,0 +1,9 @@
+---
+title: "3. Integrating Growth and Development"
+author: "pravesh"
+date: "2020-09-14"
+output: html_document
+---
+
+## Reference
+- [An Uncertain Glory: India and its contradictions](http://gen.lib.rus.ec/book/index.php?md5=9C29C2843AB83648C8FD29E8EE824AF6) by Jean Drèze and Amartya Sen, 2013. Chapter 2.
