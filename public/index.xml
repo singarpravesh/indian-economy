@@ -56,5 +56,15 @@
       <description>There are no announcements as of now.</description>
     </item>
     
+    <item>
+      <title>Students Enrolled</title>
+      <link>/students-enrolled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/students-enrolled/</guid>
+      <description>Students currently enrolled = 37. Last updated 31-Oct-2020, 09:14:02.
+SemReg_NoCRNNameMajorEmailSEECGE319218170115BIOS115KALLOL BHOWMIKLife Scienceskallolnclr2001@gmail.comBIOS03SEC1ECON03GE3A319104210008POLS008RAKA BARMANPolitical Sciencerakabarman11@gmail.comPOLS03SEC1AECON03GE3A319103210009ENGL009DEBOSMITA DUTTAEnglishduttadebosmita2001@gmail.comENGL03SEC1ECON03GE3A319104110009POLS009RATNADEEP MAITRAPolitical Scienceratnadeepmaitra72@gmail.comPOLS03SEC1AECON03GE3A319213210021MATH021ANISHA CHOWDHURYMathematicsanishachowdhury33@gmail.</description>
+    </item>
+    
   </channel>
 </rss>
