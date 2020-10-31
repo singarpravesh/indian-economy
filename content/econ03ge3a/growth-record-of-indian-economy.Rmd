@@ -1,0 +1,9 @@
+---
+title: "5. Growth Record of Indian Economy"
+author: "pravesh"
+date: "2020-09-11"
+output: html_document
+---
+
+## Reference
+[Growth Record of the Indian Economy, 1950-2008: A Story of Sustained Savings and Investment](rakesh-mohan.pdf)
