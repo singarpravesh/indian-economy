@@ -8,6 +8,8 @@ output: html_document
 ## Reference
 [Growth Record of the Indian Economy, 1950-2008: A Story of Sustained Savings and Investment](rakesh-mohan.pdf)
 
+# Summary of the paper.
+
 ## Introduction
 - Review of macroeconomic performance in India since independence.
 - India's growth has been largely enabled by the availability of domestic savings, which has increased steadily over the decades.
