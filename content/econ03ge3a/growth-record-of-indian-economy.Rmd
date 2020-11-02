@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ## Reference
-[Growth Record of the Indian Economy, 1950-2008: A Story of Sustained Savings and Investment](rakesh-mohan.pdf)
+[Growth Record of the Indian Economy, 1950-2008: A Story of Sustained Savings and Investment](rakesh-mohan.pdf) by **Rakesh Mohan, 2008**, Economic and Political Weekly.
 
 # Summary of the paper.
 
