@@ -3,12 +3,7 @@ date: "2016-05-05T21:48:51-07:00"
 title: 
 ---
 
-You will have a time bound written IA exam on Thursday 28 Jan 2021 during class hours i.e. 10 - 12 noon. It will be of 30 marks. 
+[Click here](ge_students-2020.csv) for topics for assignments. Submission deadline 28 January 2021. Your submissions shall go for plagiarism check. A high plagiarism i.e. above 15% shall result in rejection of your submission.
 
-Syllabus:
 
-1. Indian Economy on the Eve of Independence
-1. A New India?
-1. Integrating Growth and Development
 
-You shall get questions of 5 and 10 marks. No MCQ

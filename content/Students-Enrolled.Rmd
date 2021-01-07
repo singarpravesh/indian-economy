@@ -13,7 +13,7 @@ students <- htmltab("http://coe.presiuniv.ac.in/coepresi/cbcsodd2020/fetchdata.p
 s <- students %>% 
   dplyr::filter(GE == "ECON03GE3A")
 s %>% 
-  select(Email) %>% 
+  select(Name, Email) %>% 
   write.csv("C:/Users/Pravesh/Desktop/ge_students-2020.csv")
 ```
 
