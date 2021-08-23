@@ -310,9 +310,9 @@ expected to contribute resources to the larger project of national development.
 ```{r, echo=FALSE, include=FALSE}
 
 library(htmltab); library(tidyverse); library(lubridate)
-t <- htmltab("https://www.thebalance.com/us-gdp-by-year-3305543", 1)
+t <- htmltab("https://www.thebalance.com/us-gdp-by-year-3305543", 1, header = 2)
 class(t)
-t1 <- mutate(t, Year = as.Date(`Year`, "%Y")) 
+t1 <- mutate(t, Year = as.Date(Year, "%Y")) 
 t2 <- mutate(t1, Year = substr(Year, start = 1, stop = 4))
 t3 <- filter(t2, Year >= 1950) %>%
   filter(Year <= 1964) %>%

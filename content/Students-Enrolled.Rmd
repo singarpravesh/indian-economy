@@ -8,7 +8,7 @@ output: html_document
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(htmltab); library(tidyverse)
-students <- htmltab("http://coe.presiuniv.ac.in/coepresi/cbcsodd2020/fetchdata.php", 2)
+students <- htmltab("https://coe.presiuniv.ac.in/coepresi/cbcsodd2021/fetchdata.php", 2)
 
 s <- students %>% 
   dplyr::filter(GE == "ECON03GE3A")
