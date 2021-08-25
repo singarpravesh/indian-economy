@@ -1,0 +1,189 @@
+---
+title: "ECON03GE3A"
+subtitle: "The Colonial Legacy"
+author: ""
+csl: harvard-cite-them-right.csl
+bibliography: ref.bib
+date: "2021-08-20"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Reference 
+
+The Colonial Legacy 
+
+Chandra (2004)
+
+![](https://books.google.com/books/publisher/content/images/frontcover/DgESBQAAQBAJ?fife=w200-h300)
+
+
+
+## The Colonial Structure {.smaller }
+
+The four basic features of the colonial structure in India:
+
+- Complete but complex integration and enmeshing of the colony with the world capitalist system in a subordinate position.
+
+- Unequal exchange and internal disarticulation of the economy [India's Foreign Trade](1.TheColonialLegacy/Table1.PNG)
+
+- Availability and utilisation of surpluses for development was low. [Capital Formation and Savings 1901-46](1.TheColonialLegacy/Table2.PNG)
+  - Why was the availability of surplus low?
+    - Drain
+    - Appropriation by the colonial state
+    - Landlords and moneylenders
+      
+- Policies of the colonial state in the subordination of India.
+
+
+## Colonial Impact on Agriculture {.smaller }
+
+- Severe impact during the first half of the twentieth century.
+  - Per capita agricultural production declined by 0.72% per year during 1911-14.
+  - Per capita food grain output declined by 1.14% per year.
+
+- Colonialism made the agrarian structure extremely regressive.
+  - *Zamindars* failed to invest in land.
+  - More reliance on rack-renting.
+  - Peasants lost land to the moneylenders.
+  - Sub infeudation, tenancy, and sharecropping dominated the *zamindari* and the *ryotwari* areas.
+  
+  
+## {.smaller}
+
+
+- No change in the technology or techniques and inputs.
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse); library(kableExtra)
+tibble(
+  `Technology` = c('No. of ploughs used in India (late 1930s)',
+         'Agricultural department selling improved ploughs', 'Use of improved seeds (1922-23)',
+         'Use of chemical fertilizers ',
+         'Number of agricultural colleges in 1946',
+         "Investment in terracing, flood control,\ndrainage and de-salinization of soil",
+         '% of total cultivated area irrigated'
+         ), 
+  `Statistics` = c('32 million','7 to 8 thousand per year','1.9%',
+                   '2000 tonnes per year (1898-1923)\n17,400 tonnes per year (1919-24)',
+                   '9 with 3110 students',
+                   'Nil',
+                   '26.7% in 1940'
+                   )
+) %>% kable() %>% 
+  kable_styling(bootstrap_options = c("hover", "striped"))
+  
+```
+
+
+## Colonial impact on Industry
+
+- Decline in urban handicrafts
+- Slow growth of modern industries
+  - Confined to jute and textile
+  - Iron and steel after 1907
+  - Sugar, cement, and paper after 1930s
+    - Depression induced weaknesses
+- Cotton and jute accounted for 30% of workforce until 1946.
+- Growth rate: 3.8% per annum
+- Share of industry: 7.5% in 1918, 3.8% in 1913
+
+
+## Colonial impact on Industry
+
+- Employment:
+  - In 1939, Population = 389 million, employed  = 2 million
+  - In 1951 - 2.3% employed in industry
+- [The composition/structure of India's national product](1.TheColonialLegacy/Table3.PNG)   
+- Capital goods industry
+  - Absence of capital goods industry.
+  - Relied mostly on imported machinery or tools.
+  - 89.9% of capital goods imported in 1950.
+  
+  
+## Colonial impact on industry {.smaller}
+
+- Banking Sector/industry
+  - Underdeveloped
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse); library(kableExtra)
+tibble(
+  Year = c(1914, 1940, 2009
+         ), 
+  Statistics = c('1 bank office for 1.7 million people',
+                 '1 bank office for 90,000 people',
+                 '1 bank office for 14 people'
+                   )
+) %>% kable() %>% 
+  kable_styling(bootstrap_options = c("hover", "striped"))
+  
+```
+
+- Trade
+  - Imports $\rightarrow$ indigenous industries, modern industries.
+  - Displaced indigenous industries.
+
+
+
+
+
+## Colonial impact on industry
+
+
+- Railways
+  - Commercial revolution $\rightarrow$ colonialisation $\rightarrow$ exports and distribution.
+  
+- Foreign investment
+  - Uniliver, Imperial Chemical Industries, Dunlop, and General Motors entry after 1918.
+  - Contributed to 'guided underdevelopment'.
+  - Production and export of raw materials and food stuffs.
+  - Catered to foreign markets.
+  
+
+## Other economic indicators of backwardness
+
+- Very slow growth in India's national income and stagnation in per capita income [National Product](1.TheColonialLegacy/Table4.PNG)
+  - Angus Maddison: [The Maddison Project](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020)
+  - Alan Heston: [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/)
+
+
+## Other economic indicators of backwardness {.smaller}
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse); library(kableExtra)
+tibble(
+  Year = c('Cereals and Pulses availability (1950)',
+           'Availability of cloth (1950)',
+           'Death rate (1950)',
+           'Infant Mortality Rate (1950)',
+           'Life expectancy (1950)',
+           'No of medical colleges (1943)',
+           'No of medical doctors (1951)',
+           'Cases of small pox, plague, and cholera deaths',
+           '% of illiterate population (1947) '
+         ), 
+  Statistics = c('394.9 grams/day/person',
+                 '10 meters/year/person',
+                 '27.4 / 1000 persons',
+                 '175 - 190 / 1000 live births',
+                 '32 years',
+                 '10 with 700 graduates',
+                 '18000',
+                 'in millions',
+                 '88%'
+                   )
+) %>% kable() %>% 
+  kable_styling(bootstrap_options = c("hover", "striped"))
+  
+```
+
+
+## Summary::India's economic profile in 1940s
+
+- Stagnating per capita national income.
+- Abysmal standard of living.
+- Stunted industrial development
+- Stagnant, low-productivity, semi-fudal agriculture.
+

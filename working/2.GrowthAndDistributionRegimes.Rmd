@@ -1,0 +1,81 @@
+---
+title: "ECON03GE3A"
+subtitle: "Growth and Distribution Regimes in India"
+author: ""
+csl: harvard-cite-them-right.csl
+bibliography: ref.bib
+date: "2021-08-19"
+output: ioslides_presentation
+---
+
+## Reference
+
+Vamsi Vakulabharanam & Rahul De (2016) [Growth and Distribution Regimes in India after Independence](2.GrowthAndDistributionRegimes/vamsi.pdf), The Round Table, 105:6, 621-640, DOI: 10.1080/00358533.2016.1246860
+
+
+## Introduction
+
+- Two narratives of post colonial economic development
+  - Macro indicators
+  - Succession of regimes
+
+- Both the narratives are important.
+
+
+# The four regimes of accumulation in Independent India (1947-2011)
+
+## 1: India on the Eve of Independence
+
+- Destroyed traditional industries
+- Deindustrialised the country.
+- Left the country with challenges:
+  - Self sufficiency in agriculture
+  - Heterogeneous groups and their vested interests
+  - Technological dependence on the metropolitan economies.
+  
+## 2: Pre-eminence of Planning and State Capitalism (1950-67)
+
+- Economy under Nehru
+  - State directed
+  - Emphasis on heavy industries
+- Growth of industry - 5.8%
+  - Government consumption (G) - 6%
+- State as the main driver of growth.
+- Investment in industry - 7%
+- Dual role of public investment.
+- Resources allocated to long-term industrial investments.
+
+
+## 2: Pre-eminence of Planning and State Capitalism (1950-67)
+
+- Import Substitution Regime
+  - To protect infant domestic industries.
+  - To increase exports.
+
+- Exports growth = 1%
+- Imports were still higher
+  - India's dependence for food, energy, and machinery.
+  - Imports grew by 40%.
+  - Current Account Deficit peaked to 3% by 1965.
+  - More foreign aid needed to finance CAD.
+
+## 2: Pre-eminence of Planning and State Capitalism (1950-67) | Class Dynamics & Distributional Effects
+
+- Benefits to domestic capital
+  - Limited expansion of public sector
+  - Domestic capital protected from external competition.
+
+- Benefits to urban skilled workers
+- Unsuccessful *land to tiller* policy
+  - Land redistribution blocked by large landlords
+  - Limited redistribution
+
+- Low growth in agriculture
+
+## 2: Pre-eminence of Planning and State Capitalism (1950-67) | Class Dynamics & Distributional Effects
+
+- Greater urban-rural inequality
+- Absence of welfare policy
+- State $\rightarrow$ GDP growth; Economic Planning $\rightarrow$ Distribution
+
+
