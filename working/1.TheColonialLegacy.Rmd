@@ -1,5 +1,5 @@
 ---
-title: "ECON03GE3A"
+title: "ECON03GE3A"  
 subtitle: "The Colonial Legacy"
 author: ""
 csl: harvard-cite-them-right.csl
