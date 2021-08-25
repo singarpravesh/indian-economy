@@ -1,9 +1,9 @@
 ---
-title: " "
+title: "Slides"
 author: "pravesh"
 date: "2021-08-25"
 output: html_document
 ---
 
-- [1. The Colonial Legacy](1.TheColonialLegacy.html){:target="_blank"}
-- [2. Growth and Distribution Regimes in India](2.GrowthAndDistributionRegimes.html){:target="_blank"}
+- [1. The Colonial Legacy](1.TheColonialLegacy.html){target="_blank"}
+- [2. Growth and Distribution Regimes in India](2.GrowthAndDistributionRegimes.html){target="_blank"}
