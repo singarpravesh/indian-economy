@@ -91,12 +91,12 @@ tibble(
 - Share of industry: 7.5% in 1918, 3.8% in 1913
 
 
-## Colonial impact on Industry
+## Colonial impact on Industry {.smaller}
 
 - Employment:
   - In 1939, Population = 389 million, employed  = 2 million
   - In 1951 - 2.3% employed in industry
-- [The composition/structure of India's national product](1.TheColonialLegacy/Table3.PNG)   
+- ![The composition/structure of India's national product](1.TheColonialLegacy/Table3.PNG)   
 - Capital goods industry
   - Absence of capital goods industry.
   - Relied mostly on imported machinery or tools.
@@ -142,9 +142,10 @@ tibble(
   - Catered to foreign markets.
   
 
-## Other economic indicators of backwardness
+## Other economic indicators of backwardness {.smaller}
 
-- Very slow growth in India's national income and stagnation in per capita income [National Product](1.TheColonialLegacy/Table4.PNG)
+- Very slow growth in India's national income and stagnation in per capita income 
+- ![National Product](1.TheColonialLegacy/Table4.PNG)
   - Angus Maddison: [The Maddison Project](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020)
   - Alan Heston: [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/)
 
