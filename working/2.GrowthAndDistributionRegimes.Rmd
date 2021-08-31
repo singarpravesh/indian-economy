@@ -6,6 +6,8 @@ csl: harvard-cite-them-right.csl
 bibliography: ref.bib
 date: "2021-08-19"
 output: ioslides_presentation
+editor_options: 
+  chunk_output_type: console
 ---
 
 ## Reference
@@ -126,6 +128,23 @@ Vamsi Vakulabharanam & Rahul De (2016) [Growth and Distribution Regimes in India
 
 ---
 
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+library(plotly)
+inflation <- read_csv('~/blogdown/econ03ge3a/working/2.GrowthAndDistributionRegimes/india-inflation-rate-cpi.csv',
+         skip = 16) 
+inflation1 <- inflation %>%   
+  select(1:2) %>% 
+  ggplot(aes(date, `Inflation Rate (%)`))+
+  geom_line()  
+ggplotly(inflation1)
+```
+
+
+
+---
+
 **2: Green revolution and populism (1967-80)**
 
 - Agricultural crisis $\rightarrow$ Change in policy (land reform)
@@ -225,5 +244,6 @@ Urban inequality (1967-80)
   
 
 See [Table 1](Table1.PNG)
+
   
 
