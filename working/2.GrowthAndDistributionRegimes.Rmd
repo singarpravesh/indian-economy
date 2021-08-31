@@ -132,15 +132,28 @@ Vamsi Vakulabharanam & Rahul De (2016) [Growth and Distribution Regimes in India
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
 library(plotly)
+library(lubridate)
 inflation <- read_csv('~/blogdown/econ03ge3a/working/2.GrowthAndDistributionRegimes/india-inflation-rate-cpi.csv',
          skip = 16) 
-inflation1 <- inflation %>%   
-  select(1:2) %>% 
-  ggplot(aes(date, `Inflation Rate (%)`))+
-  geom_line()  
-ggplotly(inflation1)
+(inflation1 <- inflation %>%   
+  select(1:2)  %>% 
+    mutate(Year = as.numeric(year(date))) %>% 
+      mutate(event = if_else(Year == 1962, 'Chinese War',
+                  if_else(Year == 1965, 'Pakistan War',
+                  if_else(Year == 1974, "Kharif Crop Failure (1972-73)\nOil Price hike (1973)",
+                  if_else(Year == 1976, "anti-inflationary measures",
+                  if_else(Year == 1980, "poor
+agricultural output and the second hike in international oil prices.","Normal"))))))%>%
+    ggplot( aes(Year, `Inflation Rate (%)`))+
+    geom_point(aes(col = event),show.legend = FALSE)+
+    geom_line()
+      )
+  
+ggplotly(inflation1) %>% layout(showlegend = FALSE)
 ```
 
+
+Ref: [Inflation In India: Status and Issues by Y.V. Reddy](https://rbidocs.rbi.org.in/rdocs/Bulletin/PDFs/9319.pdf) 
 
 
 ---

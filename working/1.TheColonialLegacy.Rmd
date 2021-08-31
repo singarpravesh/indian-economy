@@ -28,15 +28,26 @@ The four basic features of the colonial structure in India:
 
 - Complete but complex integration and enmeshing of the colony with the world capitalist system in a subordinate position.
 
-- Unequal exchange and internal disarticulation of the economy [India's Foreign Trade](1.TheColonialLegacy/Table1.PNG)
+- Unequal exchange and internal disarticulation of the economy 
 
-- Availability and utilisation of surpluses for development was low. [Capital Formation and Savings 1901-46](1.TheColonialLegacy/Table2.PNG)
+![](1.TheColonialLegacy/Table1.PNG)
+
+
+---
+
+
+- Availability and utilisation of surpluses for development was low. 
   - Why was the availability of surplus low?
     - Drain
     - Appropriation by the colonial state
     - Landlords and moneylenders
       
 - Policies of the colonial state in the subordination of India.
+
+![Capital Formation and Savings 1901-46](1.TheColonialLegacy/Table2.PNG)
+
+
+
 
 
 ## Colonial Impact on Agriculture {.smaller }
