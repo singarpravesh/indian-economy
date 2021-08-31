@@ -135,7 +135,7 @@ library(plotly)
 library(lubridate)
 inflation <- read_csv('~/blogdown/econ03ge3a/working/2.GrowthAndDistributionRegimes/india-inflation-rate-cpi.csv',
          skip = 16) 
-(inflation1 <- inflation %>%   
+inflation1 <- inflation %>%   
   select(1:2)  %>% 
     mutate(Year = as.numeric(year(date))) %>% 
       mutate(event = if_else(Year == 1962, 'Chinese War',
@@ -147,7 +147,7 @@ agricultural output and the second hike in international oil prices.","Normal"))
     ggplot( aes(Year, `Inflation Rate (%)`))+
     geom_point(aes(col = event),show.legend = FALSE)+
     geom_line()
-      )
+      
   
 ggplotly(inflation1) %>% layout(showlegend = FALSE)
 ```
