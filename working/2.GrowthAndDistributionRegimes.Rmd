@@ -35,9 +35,13 @@ Vamsi Vakulabharanam & Rahul De (2016) [Growth and Distribution Regimes in India
   - Heterogeneous groups and their vested interests
   - Technological dependence on the metropolitan economies.
   
+
+# Regime #1 | Pre-eminence of Planning and State Capitalism (1950-67)
+  
+  
 ---
 
-**1: Pre-eminence of Planning and State Capitalism (1950-67)**
+**Pre-eminence of Planning and State Capitalism (1950-67)**
 
 - Economy under Nehru
   - State directed
@@ -52,7 +56,7 @@ Vamsi Vakulabharanam & Rahul De (2016) [Growth and Distribution Regimes in India
 
 ---
 
-**1: Pre-eminence of Planning and State Capitalism (1950-67)**
+**Pre-eminence of Planning and State Capitalism (1950-67)**
 
 - Import Substitution Regime
   - To protect infant domestic industries.
@@ -68,7 +72,7 @@ Vamsi Vakulabharanam & Rahul De (2016) [Growth and Distribution Regimes in India
 
 ---
 
-**1: Pre-eminence of Planning and State Capitalism (1950-67) : Class Dynamics & Distributional Effects**
+**Pre-eminence of Planning and State Capitalism (1950-67) : Class Dynamics & Distributional Effects**
 
 - Benefits to domestic capital
   - Limited expansion of public sector
@@ -84,7 +88,7 @@ Vamsi Vakulabharanam & Rahul De (2016) [Growth and Distribution Regimes in India
 
 ---
 
-**1: Pre-eminence of Planning and State Capitalism (1950-67) : Class Dynamics & Distributional Effects**
+**Pre-eminence of Planning and State Capitalism (1950-67) : Class Dynamics & Distributional Effects**
 
 
 - Greater urban-rural inequality
@@ -94,7 +98,7 @@ Vamsi Vakulabharanam & Rahul De (2016) [Growth and Distribution Regimes in India
 
 ---
 
-**1: Pre-eminence of Planning and State Capitalism (1950-67) : Class Dynamics & Distributional Effects**
+**Pre-eminence of Planning and State Capitalism (1950-67) : Class Dynamics & Distributional Effects**
 
 
 - Urban & rural consumption inequality declined
@@ -139,7 +143,7 @@ inflation1 <- inflation %>%
   select(1:2)  %>% 
     mutate(Year = as.numeric(year(date))) %>% 
       mutate(event = if_else(Year == 1962, 'Chinese War',
-                  if_else(Year == 1965, 'Pakistan War',
+                  if_else(Year == 1965, 'Pakistan War & Devaluation',
                   if_else(Year == 1974, "Kharif Crop Failure (1972-73)\nOil Price hike (1973)",
                   if_else(Year == 1976, "anti-inflationary measures",
                   if_else(Year == 1980, "poor
@@ -153,12 +157,17 @@ ggplotly(inflation1) %>% layout(showlegend = FALSE)
 ```
 
 
-Ref: [Inflation In India: Status and Issues by Y.V. Reddy](https://rbidocs.rbi.org.in/rdocs/Bulletin/PDFs/9319.pdf) 
+Data Source: [World Bank](https://datatopics.worldbank.org/world-development-indicators/)
+
+Ref for events: [Inflation In India: Status and Issues by Y.V. Reddy](https://rbidocs.rbi.org.in/rdocs/Bulletin/PDFs/9319.pdf) 
+
+
+# Regime #2 | Green revolution and populism (1967-80)
 
 
 ---
 
-**2: Green revolution and populism (1967-80)**
+**Green revolution and populism (1967-80)**
 
 - Agricultural crisis $\rightarrow$ Change in policy (land reform)
 - The New Agricultural Strategy (1965)
@@ -171,7 +180,7 @@ Ref: [Inflation In India: Status and Issues by Y.V. Reddy](https://rbidocs.rbi.o
 
 ---
 
-**2: Green revolution and populism (1967-80)**
+**Green revolution and populism (1967-80)**
 
 - State's role
   - Increased agri credit & fertilizer subsidies
@@ -186,7 +195,7 @@ Ref: [Inflation In India: Status and Issues by Y.V. Reddy](https://rbidocs.rbi.o
 
 ---
 
-**2: Green revolution and populism (1967-80)**
+**Green revolution and populism (1967-80)**
 
 - Role of the state in industrial development declined.
 - Industrial slackening $\rightarrow$ GDP $\downarrow$ 4.5%
@@ -204,7 +213,7 @@ Ref: [Inflation In India: Status and Issues by Y.V. Reddy](https://rbidocs.rbi.o
 
 ---
 
-**2: Green revolution and populism (1967-80): Class dynamics and distributional effects**
+**Green revolution and populism (1967-80): Class dynamics and distributional effects**
 
 - Growth of certain crops and regions under Green Revolution.
 - Large landholders and the *rural elite* benefited the most.
@@ -214,7 +223,7 @@ Ref: [Inflation In India: Status and Issues by Y.V. Reddy](https://rbidocs.rbi.o
 
 ---
 
-**2: Green revolution and populism (1967-80): Class dynamics and distributional effects**
+**Green revolution and populism (1967-80): Class dynamics and distributional effects**
 
 - *Rural rich* emerged $\rightarrow$ increased powers $\rightarrow$ formation of Interest Groups (politically motivated).
   - For instance Lok Dal (led by Charan Singh) that would go on to dethrone Congress in 1978.
@@ -254,10 +263,242 @@ Urban inequality (1967-80)
       - raising fiscal deficit
       - increased external commercial borrowings (ECB)
   - Collapse of the ISI regime (beginning of 1980s)
+
+---
+
+
+![](2.GrowthAndDistributionRegimes/Table1.PNG)
+
+
+
+# Regime #3 | High growth with stagnant inequality (1980-91)
+
+
+---
+
+
+**High growth with stagnant inequality (1980-91)**
+
+- IMF loan worth $5.2 bn.
+- Partial liberalisation
+- Structural transformation of India
+  - Relaxation of Industrial licensing
+  - Decontrol of prices of essentials
+  - Slash import duties
+  
+---
+
+**High growth with stagnant inequality (1980-91)**
+
+- GDP growth of 5%
+
+![](2.GrowthAndDistributionRegimes/Table1.PNG)
+
+
+---
+
+**High growth with stagnant inequality (1980-91): Class dynamics and distributional effects**
+
+- Regimes 1 & 2 $\rightarrow$ low growth $+$ mild increase in inequality
+- Regimes 3 & 4 $\rightarrow$ high growth $+$ very different distributional dynamics
+- Shift from a progressive nation state to pro-business state
+- Formation of new business groups.
+  - Rural elite migrating to urban spaces
+  - Emergence if IT professionals
+- The new business groups $\rightarrow$ regional and national parties
+  - Opposition to the License Raj
+
+---
+
+**High growth with stagnant inequality (1980-91): Class dynamics and distributional effects**
+
+- Decrease in income inequality
+- Marginalised class benefited (IRDP)
+- Inequality declined because
+  - Political unrest & the Maoist struggles
+  - Land reforms in Bengal and Kerala (under Communism)
+- Improvements in the living conditions of all the classes.
+
+
+---
+
+**High growth with stagnant inequality (1980-91): Class dynamics and distributional effects**
+
+- Increase in $C$
+- Vakulabharanam(2010)
+  - Gini coefficients stayed almost the same/ marginal decline between 1983-84 to 1993-94.
+
+See Table 5 and Fig 2.
+
+
+---
+
+
+![](2.GrowthAndDistributionRegimes/Table5.PNG){width=700}
+
+---
+
+![](2.GrowthAndDistributionRegimes/Fig2.PNG)
+
+
+---
+
+**Deepening twin crisis by the late 1980s**
+
+- Imports grew by 7%
+- Exports fell
+- CAD started to rise to 3% of GDP
+- Foreign aid dependency grew
+- Rise in fiscal deficits (from 3.5% to 5.5%)
+- Caught in the trap of debt servicing
+- Fall in public investment $\rightarrow$ deteriorating public investment $\rightarrow$ Investment crisis in 1991
+- Rising fiscal & CAD would culminate to the crisis in 1991.
+
+
+# Regime #4 | High Growth and Rising Inequality (1991-2012)
+
+---
+
+**High Growth and Rising Inequality (1991-2012)**
+
+- The twin crisis problem
+  - Fiscal deficit & BoP/CAD
+- International credit rating fell (in 1991)
+- Political crisis evolved
+- Shift in development process
+  - State to market
+
+
+## {.smaller}
+
+**High Growth and Rising Inequality (1991-2012)**
+
+- Liberal Reforms Package
+  - Fiscal austerity measures
+  - Liberalisation of external sector
+  - Financial reforms and market directed development
+- This regime saw the fastest economic growth
+- Growth dynamics
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr); library(kableExtra)
+tibble(
+  `(1991-2000)` = c('Medium growth',
+                    'Fiscally disciplined state',
+                    'Unstable investment',
+                    'Low exports and high imports'),
+  `(2003-2012)`= c('High Growth',
+                   'High expenditures',
+                   'High Investment',
+                   'High Exports and Imports'
+    
+  )
+) %>% 
+  kable() %>% 
+  kable_styling(bootstrap_options = c('hover', 'striped'))
+
+```
+
+ 
+
+
+
+---
+
+**High Growth and Rising Inequality (1991-2012)**
+
+- Investment of 15% per annum contributed to 55% of growth
+- Massive FDI helped decrease dependency on commercial borrowings and foreign aid.
+
+---
+
+**High Growth and Rising Inequality (1991-2012): Class and distributional dynamics**
+
+- Implemented a Neoliberal Structural Adjustment Programme
+- Accumulation through creating conducive environment for private players.
+- *Growth enclave*
+  - Rapid growth in *private luxury consumption*.
+  - Rapid growth in *private investment*.
+  - Rapid growth in *exports*.
+- Urban elites engaged in *Growth Enclave* benefitted the most.
+  - Domestic capital
+  - Skilled workers
+  - Marginal class
   
 
-See [Table 1](Table1.PNG)
+## {.smaller}
+
+**High Growth and Rising Inequality (1991-2012): Class and distributional dynamics**
+
+- Low investment in agriculture
+- Marginalised and small farmers were mostly hit
+- Rate of increase in Consumption inequality has been the fastest
+
+![](2.GrowthAndDistributionRegimes/Fig1.PNG)
 
 
-  
+## {.smaller}
 
+**High Growth and Rising Inequality (1991-2012): Class and distributional dynamics**
+
+- Marginal farmers, tenant farmers, landless peasants hurt 
+- Informal urban sector growth
+- Migration from rural areas
+- Urban inequality and unemployment rise
+
+![](2.GrowthAndDistributionRegimes/Table5.PNG){width=700}
+
+
+---
+
+**High Growth and Rising Inequality (1991-2012): Class and distributional dynamics**
+
+- Increase in demand for luxury consumption
+- Jayadev et al. (2007) 
+  - Steady increase in wealth inequality
+  - Intra urban and urban-rural inequality rose
+- Banerjee(2005)
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+tibble(
+  `Year` = c(1985, 2000),
+  `Wage share of Value Added` = c('33%', '17%'),
+  `Profit share of Value Added` = c('16%', '30%')
+) %>% 
+  kable() %>% 
+  kable_paper()
+```
+
+
+---
+
+**High Growth and Rising Inequality (1991-2012): Class and distributional dynamics**
+
+- Other features
+  - Strong decline in redistributive policies
+  - Fall in wage in the organised sector
+  - Increasing unemployment
+  - Stagnation of agriculture
+
+
+## Summary {.smaller}
+
+
+- Indian economy witnessed 4 different regimes of growth and development
+- Regime 1 + Regime 2 (1951-80): Hegemony of Indian State
+- Regime 3 (1981 -90): Hegemony of the state and the private capital
+- Regime 4 (1991-2012): Hegemony of private capital
+- 4 Different regimes
+  - different growths
+  - different distributional dynamics
+  - different roles of the state
+  - different kinds of crisis
+- Through the entire period, there was the emergence of *private capital* and *professional class* ready to use the markets and the state in their interests.
+
+
+
+
+
+## Questions {.smaller}
+
+1. Out of the regimes discussed, which regime/regimes do you find more appealing and why?<br>
+2. Bring out a comparative analysis of the four different regimes discussed in the paper.     
