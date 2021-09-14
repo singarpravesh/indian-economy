@@ -8,7 +8,7 @@ output:
 ---
 
 ## Reference
-[Growth Record of the Indian Economy, 1950-2008: A Story of Sustained Savings and Investment](rakesh-mohan.pdf) by **Rakesh Mohan, 2008**, Economic and Political Weekly.
+[Growth Record of the Indian Economy, 1950-2008: A Story of Sustained Savings and Investment](rakeshmohan.pdf) by **Rakesh Mohan, 2008**, Economic and Political Weekly.
 
 
 
@@ -215,4 +215,9 @@ Barring the decade of the 1970s, the incremental capital output ratio has hovere
 - In this aspect fiscal consolidation needs to be persevered with so that higher public investment is possible which may further attract larger private investment.
 - Since 2003-04 there has been a significant jump in credit growth which could be attributed to the step-up in real GDP growth, decline in interest rates, intensive policy initiatives to improve flow of credit to sectors like agriculture and finally strong demand for rural credit, particularly housing.
 
+---
+
+[Economic terms used in the text](EconomicTerms.docx)
+
+- [Eco]
  
