@@ -1,0 +1,174 @@
+---
+title: "Five Year Plans in India"
+author: "pravesh"
+date: "2020-09-11"
+output:  
+  ioslides_presentation:
+    smaller: true
+---
+
+## Reference
+
+- http://mospi.nic.in/sites/default/files/Statistical_year_book_india_chapters/ch7.pdf
+
+
+## History of Planning 
+
+- Inception of plannning in 1951
+- Planned Economic Development path
+- Theoretical efforts began much ealier
+  - 1938: National Planning Committee
+  - 1944: The Bombay Plan and the Gandhian Plan
+  - 1945: People's Plan
+  - 1059: Sarvodaya Plan
+
+---
+
+- FYPs are centralised and integrated economic programmes.
+- First FYP was implemented in the Soviet Union in 1920s.
+- Planning Commission in India was established in March 1950.
+  - Raise the standard of living
+  - Increase production and employment opportunities
+- 1951: 1st FYP
+- 1966-69: 3 annual plans
+  - Droughts, Indo-Pak war and devaluation
+- 1969: 4th FYP
+- 1990-91 & 1991-92: 2 Annual Plans
+  - Fast changing political situation in the centre
+- 1992: 8th FYP
+
+## 1st FYP (1951-56)
+- Target: 2.1% Achieved: 3.6%
+- Based on Harrod-Domar growth model
+  - Keynesian model of economic growth
+  - Output = Savings $\times$ marginal product of capital $-$ depreciation
+- Influx of refugees
+- Food shortage and mounting inflation
+- Focus on agriculture, price stability & power and transport.
+- A successful plan
+  - Good monsoon leading to good harvest
+  - Rehabilitation of refugees, food sufficiency and price controls.
+  
+## 2nd FYP (1956-61)
+- Target: 4.5% Achieved: 4.3%
+- Harrod-Domar Model + Mahalanobis Strategy
+- Less priority to agriculture
+- Focus on rapid industrialisation
+- Acute shortage of forex
+- Modestly successful plan
+
+## 3rd FYP (1961-66)
+- Target: 5.6% Achieved: 2.8%
+- Aim: Self reliant and self generating
+- Importance to agriculture
+- A complete failure
+  - Chinese Agression (1962)
+  - Indo-Pak War (1965)
+  - Droughts (1965-66)
+- Shift in the focus: from *development* to *defence and development*.
+
+## 3 Annual Plans (1966-69)
+- Plan holiday
+- Devaluation & inflation led to postponement of the 4th FYP.
+- Emphasis on the agri sector
+- Agri strategy
+  - HYV seeds, fertilizers, irrigation and soil conservation
+- Absorbed the shocks generated during the 3rd PFY
+- Paved a path for planned growth ahead.
+
+## 4th FYP (1969-74)
+- Target: 5.7% Achieved: 3.3%
+- Objectives:   
+  - Growth with stability
+  - Progressive achievement if self reliance.
+- Emphasis on agriculture $\rightarrow$ other sectors.
+- Implementation of Family Planning Programmes
+
+## 5th FYP (1974-79)
+- Target: 4.4% Achieved: 4.8%
+- Objectives
+  - *Garibi hatao*
+  - Attainment of self reliance
+- Janata party came to power in 1978
+  - Launch of the 6th FYP (1978-83)
+  - Emphasis on employment
+- Congress government comes to power in 1980
+  - Launch of another plan in 1980
+  
+## 6th FYP (1980-85)
+- Focus on increasing national income
+- Modernisation of technology
+- TRYSEM (Training of Rural Youth for Self Employment)
+- NREP (National Rural Employment Programme)
+- IRDP (Integrated Rural Development Programme)
+- growth: 5.7%
+
+## 7th FYP (1985-90)
+- Growth : 6%
+- Accelerated food grain production and employment
+
+## 8th FYP (1992-97)
+- Introduction of liberalisation
+- Outcomes:   
+  - Rapid economic growth 6.8%
+  - Growth of manufacturing sector
+  - Improvement in CAD and trade
+
+## 9th FYP (1997-2002)
+- Target: 6.5% Achieved: 5.4%
+- Growth with Social Justice and Equality
+- Increasing role of the private sector
+- Priority to agriculture and rural development
+
+## 10th FYP (2002-2007)
+- Target: 8% Achieved: 7.6%
+- Reduction in gender gaps, and mortality rates
+- Access to drinking water
+- Focus on Panchayati Raj Institutions
+- One of the fastest growing economies
+
+## 11th FYP (2007-12)
+- Target: 9% Achieved: 8%
+- Focus on the *Aam Aadmi*
+- FDI, savings and investments at all time high
+- Growth not inclusive for SC/ST and minorities
+- NREGP (National Rural Employment Guarantee Programme)
+- Global Financial Crisis (2008)
+- Sovereign Debt Crisis (2011)
+
+## 12th FYP (2012-17)
+- Eurozone Crisis
+- Growth declined to 5%
+- Vision: Faster, Sustainable and more inclusive growth
+
+## Reference
+
+Mehrotra, S and Guichard, S (2020) *Plannning in the 20th Century and Beyond: India's Planning Commission and the NITI Aayog* Cambridge University Press 
+Chapter 13 [Plan, But Do Not Over Plan: Lessons for NITI Aayog](slides/pranabSen.pdf)
+
+
+## The Planning Experience in India
+- Devolution of the Planning Commission & replacement with NITI Aayog 
+- Narendra Modi's speech on 15 Aug 2014
+- GOI announces the formation of NITI aayog on 1 January 2015.
+- Old style central planning out and new style reform agenda was in.
+- A market-led process of growth and development
+- Develop and 15 year vision, 7 year strategy and 3 year implementation framework.
+
+
+---
+
+- The 1st FYP was an agenda and not a plan
+- Limitations during the 2nd FYP
+  - savings, growth theories
+- Original concept of Mahalanobis and Nehru
+- Belief in the technocrats.
+- A phased reduction of the savings constraint.
+- The 3rd FYP conceived during a period of emerging BoP crisis
+- A new constraint evolves: foreign exchange
+- Two ways to address this crisis:
+  - Increase exports
+  - Reduce imports
+- Would derail the strategy of increasing savings and long-run productivity.
+
+
