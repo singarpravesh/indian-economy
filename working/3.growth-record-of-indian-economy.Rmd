@@ -32,7 +32,7 @@ output:
 
 ---
 
-![Table 1](growth-record-of-indian-economy/Table1.PNG)
+![Table 1](3.growth-record-of-indian-economy/Table1.PNG)
 
 ---
 
@@ -88,15 +88,15 @@ output:
 ---
 
 
-![Table 2](growth-record-of-indian-economy/Table2.PNG)
+![Table 2](3.growth-record-of-indian-economy/Table2.PNG)
 
 ---
 
-![Table 3](growth-record-of-indian-economy/Table3.PNG)
+![Table 3](3.growth-record-of-indian-economy/Table3.PNG)
 
 ---
 
-![Chart 1](growth-record-of-indian-economy/Chart1.PNG)
+![Chart 1](3.growth-record-of-indian-economy/Chart1.PNG)
 
 
 ---
@@ -138,7 +138,7 @@ output:
 ---
 
 
-![Table 6](growth-record-of-indian-economy/Table6.PNG)
+![Table 6](3.growth-record-of-indian-economy/Table6.PNG)
 
 ---
 
@@ -153,7 +153,7 @@ output:
 - A remarkable feature of the Indian macroeconomic story since independence has been the continuous rise in household savings over the decades (Table 7).
 
 
-![Table 7](growth-record-of-indian-economy/Table7.PNG)
+![Table 7](3.growth-record-of-indian-economy/Table7.PNG)
 
 
 ---
@@ -175,7 +175,7 @@ Barring the decade of the 1970s, the incremental capital output ratio has hovere
 ---
 
 
-![Table 8](growth-record-of-indian-economy/Table8.PNG)
+![Table 8](3.growth-record-of-indian-economy/Table8.PNG)
 
 ---
 
@@ -205,7 +205,7 @@ Barring the decade of the 1970s, the incremental capital output ratio has hovere
 
 ---
 
-![Chart 2](growth-record-of-indian-economy/Chart2.PNG)
+![Chart 2](3.growth-record-of-indian-economy/Chart2.PNG)
 
 
 ---
